@@ -23,6 +23,7 @@ grid-template-rows:repeat(6 ,1fr) ;
     /* background-color: #7da898; */
     border: 2px solid #7da898;
     width: 99%;
+    height:88px;
     padding: 1%;
     margin: auto;
     margin: 1% auto;
